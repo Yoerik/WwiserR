@@ -1,4 +1,7 @@
-// Copyright Yoerik Roevens. All Rights Reserved.(c)
+// Copyright (c) 2025 Yoerik Roevens
+// 
+// This software is released under the MIT License.
+// https://opensource.org/licenses/MIT
 
 #pragma once
 
